@@ -1,5 +1,5 @@
 class Simple{  
    public static void main(String args[]){  
-   System.out.println("hiii aws");  
+   System.out.println("hello aws");  
  }  
 } 
