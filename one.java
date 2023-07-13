@@ -2,6 +2,6 @@ class Simple
 {  
    public static void main(String args[])
 {  
-   System.out.println("aws cloud");  
+   System.out.println("aws devops cloud");  
  }  
 } 
