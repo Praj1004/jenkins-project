@@ -1,1 +1,5 @@
-/usr/bin/bash: line 1: q: command not found
+class Simple{  
+   public static void main(String args[]){  
+   System.out.println("aws");  
+ }  
+} 
